@@ -5,7 +5,7 @@ DOMAIN,zh.annas-archive.org
 DOMAIN,urlencoder.org
 DOMAIN,v2rayssr.com
 DOMAIN,amyconvert.com
-DOMAIN-SUFFIX,v1.mk
+DOMAIN,url.v1.mk
 DOMAIN-SUFFIX,olevod.com
 DOMAIN-SUFFIX,Workers.dev
 DOMAIN-SUFFIX,splitbee.io
@@ -20,3 +20,5 @@ DOMAIN-KEYWORD,haiwaikan
 DOMAIN-KEYWORD,efhie
 DOMAIN-KEYWORD,bulianglin
 DOMAIN-KEYWORD,xiao88
+DOMAIN-KEYWORD,wogg
+DOMAIN-KEYWORD,hdhive
