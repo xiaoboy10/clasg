@@ -1,22 +1,22 @@
 # 图层闪退
-IP-CIDR,149.88.82.119/32,Reject,no-resolve
+IP-CIDR,149.88.82.119/32
 # 可以防止B站之类的白嫖上传，总之是个好东西。
-PROTOCOL,STUN,REJECT
+PROTOCOL,STUN
 # 信息收集
-URL-REGEX,"\.log\.",REJECT
+URL-REGEX,"\.log\."
 # Telegarm 转圈
-IP-CIDR,95.161.76.100/31,REJECT-NO-DROP,no-resolve
+IP-CIDR,95.161.76.100/31
 # 以下为该软件部分去广告规则
-DOMAIN-SUFFIX,ads.inmobi.com,REJECT-DROP
-DOMAIN-SUFFIX,tappx.com,REJECT-DROP
-DOMAIN-SUFFIX,criteo.com,REJECT-DROP
-DOMAIN-SUFFIX,pubmatic.com,REJECT-DROP
-DOMAIN-SUFFIX,smaato.net,REJECT-DROP
-DOMAIN-SUFFIX,amazon-adsystem.com,REJECT-DROP
-DOMAIN-SUFFIX,googleads.g.doubleclick.net,REJECT-DROP
-DOMAIN-SUFFIX,adsappier.com,REJECT-DROP
-DOMAIN-SUFFIX,appier.net,REJECT-DROP
-DOMAIN-SUFFIX,appiersig.com,REJECT-DROP
+DOMAIN-SUFFIX,ads.inmobi.com
+DOMAIN-SUFFIX,tappx.com
+DOMAIN-SUFFIX,criteo.com
+DOMAIN-SUFFIX,pubmatic.com
+DOMAIN-SUFFIX,smaato.net
+DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-SUFFIX,googleads.g.doubleclick.net
+DOMAIN-SUFFIX,adsappier.com
+DOMAIN-SUFFIX,appier.net
+DOMAIN-SUFFIX,appiersig.com
 
 #抖音
 DOMAIN,lf3-static.bytednsdoc.com
@@ -32,4 +32,5 @@ DOMAIN-SUFFIX,ixiguavideo.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,toutiao.com
+
 
