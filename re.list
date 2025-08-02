@@ -1,3 +1,23 @@
+# 图层闪退
+IP-CIDR,149.88.82.119/32,Reject,no-resolve
+# 可以防止B站之类的白嫖上传，总之是个好东西。
+PROTOCOL,STUN,REJECT
+# 信息收集
+URL-REGEX,"\.log\.",REJECT
+# Telegarm 转圈
+IP-CIDR,95.161.76.100/31,REJECT-NO-DROP,no-resolve
+# 以下为该软件部分去广告规则
+DOMAIN-SUFFIX,ads.inmobi.com,REJECT-DROP
+DOMAIN-SUFFIX,tappx.com,REJECT-DROP
+DOMAIN-SUFFIX,criteo.com,REJECT-DROP
+DOMAIN-SUFFIX,pubmatic.com,REJECT-DROP
+DOMAIN-SUFFIX,smaato.net,REJECT-DROP
+DOMAIN-SUFFIX,amazon-adsystem.com,REJECT-DROP
+DOMAIN-SUFFIX,googleads.g.doubleclick.net,REJECT-DROP
+DOMAIN-SUFFIX,adsappier.com,REJECT-DROP
+DOMAIN-SUFFIX,appier.net,REJECT-DROP
+DOMAIN-SUFFIX,appiersig.com,REJECT-DROP
+
 #抖音
 DOMAIN,lf3-static.bytednsdoc.com
 DOMAIN,v5-dy-o-abtest.zjcdn.com
@@ -12,3 +32,4 @@ DOMAIN-SUFFIX,ixiguavideo.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,toutiao.com
+
