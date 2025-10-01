@@ -7,6 +7,9 @@ DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,xiao88.dpdns.org
 DOMAIN-SUFFIX,zhenyunpan.com
+DOMAIN-SUFFIX,xuexizhinan.com
+DOMAIN-SUFFIX,/4kfox.com
+DOMAIN-SUFFIX,/4kfm.com
 DOMAIN-SUFFIX,ktmwan.net
 #EMBY
 DOMAIN-SUFFIX,8897122.xyz
@@ -36,6 +39,7 @@ DOMAIN-KEYWORD,leijing
 DOMAIN-KEYWORD,leijing1
 DOMAIN-KEYWORD,wogg
 DOMAIN-KEYWORD,xxooo
+
 
 
 
