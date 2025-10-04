@@ -1,10 +1,11 @@
 #mg ipv6
 DOMAIN-SUFFIX,emby.zn.al
 DOMAIN-SUFFIX,cn2gias.uk
-DOMAIN-SUFFIX,sharepoint.com
+#DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,023168.xyz
 DOMAIN-SUFFIX,embycc.link
 DOMAIN-SUFFIX,carryz.net
+
 
 
 
