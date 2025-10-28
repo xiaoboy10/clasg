@@ -1,9 +1,9 @@
 # 图层闪退
 IP-CIDR,149.88.82.119/32
 # 可以防止B站之类的白嫖上传，总之是个好东西。
-PROTOCOL,STUN
+#PROTOCOL,STUN
 # 信息收集
-URL-REGEX,"\.log\."
+#URL-REGEX,"\.log\."
 # Telegarm 转圈
 IP-CIDR,95.161.76.100/31
 # 以下为该软件部分去广告规则
@@ -19,19 +19,20 @@ DOMAIN-SUFFIX,appier.net
 DOMAIN-SUFFIX,appiersig.com
 
 #抖音
-#DOMAIN,lf3-static.bytednsdoc.com
-#DOMAIN,v5-dy-o-abtest.zjcdn.com
-#DOMAIN-SUFFIX,amemv.com
-#DOMAIN-SUFFIX,douyincdn.com
-#DOMAIN-SUFFIX,douyinpic.com
-#DOMAIN-SUFFIX,douyinstatic.com
-#DOMAIN-SUFFIX,douyinvod.com
-#DOMAIN-SUFFIX,idouyinvod.com
-#DOMAIN-SUFFIX,ixigua.com
-#DOMAIN-SUFFIX,ixiguavideo.com
-#DOMAIN-SUFFIX,pstatp.com
-#DOMAIN-SUFFIX,snssdk.com
-#DOMAIN-SUFFIX,toutiao.com
+DOMAIN,lf3-static.bytednsdoc.com
+DOMAIN,v5-dy-o-abtest.zjcdn.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,idouyinvod.com
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,ixiguavideo.com
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,toutiao.com
+
 
 
 
