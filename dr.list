@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,www.gying.net
 DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,xiao88.dpdns.org
+#影视
+DOMAIN-SUFFIX,hmxz.org
 DOMAIN-SUFFIX,zhenyunpan.com
 DOMAIN-SUFFIX,zhizhenpan.fun
 DOMAIN-SUFFIX,xuexizhinan.com
@@ -44,6 +46,7 @@ DOMAIN-KEYWORD,leijing
 DOMAIN-KEYWORD,leijing1
 DOMAIN-KEYWORD,wogg
 DOMAIN-KEYWORD,xxooo
+
 
 
 
