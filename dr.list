@@ -12,11 +12,13 @@ DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,xiao88.dpdns.org
 #影视
 DOMAIN-SUFFIX,hmxz.org
+DOMAIN-SUFFIX,666291.xyz
 DOMAIN-SUFFIX,zhenyunpan.com
 DOMAIN-SUFFIX,zhizhenpan.fun
 DOMAIN-SUFFIX,xuexizhinan.com
 DOMAIN-SUFFIX,banye.tech
 DOMAIN-SUFFIX,ktmwan.net
+DOMAIN-KEYWORD,muou
 #EMBY
 DOMAIN,emos.200038.xyz
 DOMAIN,auto.dolby.dpdns.org
@@ -56,6 +58,7 @@ DOMAIN-KEYWORD,leijing
 DOMAIN-KEYWORD,leijing1
 DOMAIN-KEYWORD,wogg
 DOMAIN-KEYWORD,xxooo
+
 
 
 
