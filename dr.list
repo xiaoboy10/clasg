@@ -22,7 +22,7 @@ DOMAIN-SUFFIX,ktmwan.net
 DOMAIN-KEYWORD,muou
 #EMBY
 DOMAIN,emos.200038.xyz
-DOMAIN,auto.dolby.dpdns.org
+DOMAIN-SUFFIX,dolby.dpdns.org
 DOMAIN-SUFFIX,sharepoint.cn
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,emosstore.sbs
@@ -59,6 +59,7 @@ DOMAIN-KEYWORD,leijing
 DOMAIN-KEYWORD,leijing1
 DOMAIN-KEYWORD,wogg
 DOMAIN-KEYWORD,xxooo
+
 
 
 
