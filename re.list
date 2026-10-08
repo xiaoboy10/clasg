@@ -18,7 +18,31 @@ DOMAIN-SUFFIX,adsappier.com
 DOMAIN-SUFFIX,appier.net
 DOMAIN-SUFFIX,appiersig.com
 
+#王者荣耀
 
+
+DOMAIN,down-update.qq.com
+DOMAIN,update1.dlied.qq.com
+DOMAIN,update5.dlied.qq.com
+DOMAIN,oth.str.mdt.qq.com
+DOMAIN,image.smoba.qq.com
+DOMAIN,game.qq.com
+DOMAIN,c.tdm.qq.com
+DOMAIN,chong.qq.com
+DOMAIN,mtcls.qq.com
+DOMAIN,appsupport.qq.com
+DOMAIN,tpns.qq.com
+DOMAIN,a.ssl.msdk.qq.com
+DOMAIN,wspeed.qq.com
+DOMAIN,control.mna.qq.com
+DOMAIN,szmg.qq.com
+DOMAIN,101.91.69.39
+DOMAIN,app.moba.qq.com
+DOMAIN,jsonatm.broker.tplay.qq.com
+DOMAIN,game.eve.mdt.qq.com
+DOMAIN,pingma.qq.com
+DOMAIN,cloudctrl.gclud.qq.com
+DOMAIN,masdk.3g.qq.com
 
 
 
